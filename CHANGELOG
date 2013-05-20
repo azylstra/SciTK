@@ -1,2 +1,10 @@
+2013-05-19   Alex Zylstra   <alex@azylstra.net>
+* Improved functionality of PromptValue to allow getting Strings vs numeric values
+* Bug fixes for resource loading and improved stability
+* Fixed bug in PromptValue which occasionally resulted in NullPointerExceptions
+* Improved modal behavior of DialogError
+* Significantly improved naming scheme
+* Converted project to IntelliJ
+
 2013-05-12   Alex Zylstra   <alex@azylstra.net>
 * Initial publication

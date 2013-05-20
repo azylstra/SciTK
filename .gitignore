@@ -1,6 +1,13 @@
 *.class
+*.DS_Store
+dist
+.idea
+SciTK.iml
 
 # Package Files #
 SciTK.jar
 *.war
 *.ear
+
+# Library Files #
+lib
