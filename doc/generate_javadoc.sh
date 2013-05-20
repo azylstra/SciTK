@@ -1,1 +1,0 @@
-javadoc -classpath "../toolkit/lib/*:." ../toolkit/*/*.java
